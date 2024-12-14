@@ -33,7 +33,7 @@ user = ("")
 pwd = ("")
 
 
-server = smtplib.SMTP("smtp.ionos.de", 587)
+server = smtplib.SMTP("", )
 server.starttls()  
 server.login(user, pwd)  
 
