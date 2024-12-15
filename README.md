@@ -1,6 +1,6 @@
-Wichtel
+***Secret Santa***
 
-Sendung von E-Mails an Teilnehmer
+**Sending Emails to Participants**
 
-Dies ist ein kleines Projekt von mir, das dazu dient, die Wichtelauslosung zu machen. Hier werden E-Mails versendet, für wen man wichtelt. 
-Wenn man es nutzen möchte, muss man den Code noch leicht bearbeiten (die E-Mail-Adresse, den SMTP-Server und die Anmeldedaten). 
+This is a small project I made to do the Secret Santa draw. It sends emails to tell people who they will be giving gifts to.  
+If you want to use it, you need to change a few things in the code (like the email address, SMTP server, and login details).
