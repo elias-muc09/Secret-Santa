@@ -1,4 +1,4 @@
-***Secret Santa***
+# Secret Santa
 
 **Sending Emails to Participants**
 
